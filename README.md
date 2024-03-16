@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Sometimes I talk to my code like it's a pet. It seems to respond better that way!**<br/><br/>
 
-<img align="left" alt="Coding" width="800" src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif"/>
+<img align="left" alt="Coding" width="600" src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif"/>
 <br/><br/><br/><br/>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
