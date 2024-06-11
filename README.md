@@ -1,4 +1,4 @@
-![MasterHead](https://assets-global.website-files.com/6479aa52379c5ec75e31f233/6538743c4961e8ecfc3b57b6_b4e371619042d1e80918d09904e90f7d.gif)
+
 <h1 align="center">Hey there, devs!👋, I'm Heshan</h1>
 <h3 align="center">A passionate developer from Ceylon</h3>
 <br/>
