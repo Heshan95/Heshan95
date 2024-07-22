@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **more about Frontend Technologies**
 
-- 📫 How to reach me **heshankulasooriya.info@gmail.com**
+- 🌏 How to reach me **heshankulasooriya.com**
+
+- 📧 or **heshankulasooriya.info@gmail.com**
 
 - ⚡ Fun fact **Sometimes I talk to my code like it's a pet. It seems to respond better that way!**<br/><br/>
 
