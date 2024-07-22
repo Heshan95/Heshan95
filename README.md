@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Java Mobile Application Project**
 
-- 🌱 I’m currently learning **more about Dart and Mobile Application development**
+- 🌱 I’m currently learning **more about Frontend Technologies**
 
 - 📫 How to reach me **heshankulasooriya.info@gmail.com**
 
